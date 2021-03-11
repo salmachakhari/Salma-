@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.0, 2021-03-07T22:18:12. -->
+<!-- Written by QtCreator 4.11.0, 2021-03-11T18:27:19. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -287,8 +287,9 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/ASUS I7/Documents/Interface_Gestion_collaboration/Interface_Gestion_collaboration.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/ASUS I7/Documents/Interface_Gestion_collaboration/Interface_Gestion_collaboration.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Interface_Gestion_collaboration2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/ASUS I7/Desktop/Interface_Gestion_collaboration/Interface_Gestion_collaboration.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/ASUS I7/Desktop/Interface_Gestion_collaboration/Interface_Gestion_collaboration.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
